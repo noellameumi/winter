@@ -1,5 +1,5 @@
 winter clothes
-
+cold
 summer wear
 winter decor
 winter colours
@@ -8,3 +8,5 @@ summer things
 summer activities
 cherry
 rainny weather
+rain
+boots
